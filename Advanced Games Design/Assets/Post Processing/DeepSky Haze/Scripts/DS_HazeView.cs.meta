@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6c4fafdb1efc41444b18adbce8bb4087
+labels:
+- lighting
+- scattering
+- atmospherics
+- fog
+- DX11
+- shaders
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Context: {fileID: 11400000, guid: d0319f579ca03a447896c7a31b71e6e6, type: 2}
+  - m_DirectLight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

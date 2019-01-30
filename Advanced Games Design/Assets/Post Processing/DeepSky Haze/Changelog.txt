@@ -1,0 +1,36 @@
+Version 1.2.5
+ - Bugfix: handle cases where other image effects are setting depth mode to both Depth and DepthNormals.
+ - Feature: added per-View toggle for temporal reprojection for when later effects (eg. AA) also use temporal.
+ - Shaders: handle light matrix name differences between 5.3 and 5.4.
+
+Version 1.2
+ - Bugfix: correctly handle null destination render target when View component is last in blit-chain.
+ - Bugfix: intermediary render targets now use the correct format and gamma settings when not rendering HDR or Linear.
+ - Features: added Light Volume component for rendering local spot & point light volumetrics.
+ - Features: all volumetric rendering moved to command buffers, opaque image effect only used for final upscaling.
+ - Features: using Halton sequence to make sampling the interleaved offsets texture more randomized.
+ - Features: allow toggling Light Volume rendering on a per-View basis.
+ - Examples: added 'Light Volumes' scene demoing features of the Light Volume component.
+
+Version 1.1.5
+ - Bugfix: some skybox 'shader_feature' options were not being included during a build.
+ - Bugfix: destination render target now properly set on finishing blit-chain and depth buffer copied in correct place.
+ - Examples: added 'Skybox And Transparencies' scene demoing skybox flags.
+ - Examples: added version of standard Alpha Blend particle shader supporting atmospherics (also used in demo scene).
+ - Examples: added basic mouse-look controller to cameras (pressing esc. now stops play mode/exits player in build).
+
+Version 1.1
+ - Support: minimum Unity version reduced to 5.2.1 (was 5.3).
+ - Features: added Quick setup window to GameObject menu.
+ - Features: added initial support for different height falloff methods, currently None and Exponential (default).
+ - Features: split atmospherics into components with controls per-DS_HazeView as to which get applied to skybox.
+ - Shaders: re-write of transparent shaders and support library to share functions with main render effect.
+ - Shaders: custom transparent shader GUI, enables metal/spec/gloss and normal maps as needed.
+ - Shaders: skybox shaders for rendering elements with atmospherics computed at full depth.
+ - Shaders: replacement billboard shader for trees made using Unity Tree Creator.		
+ - UI : changed zone colours to make selection clearer.
+ - Examples: added HDR skybox and removed standard assets (tonemapping).
+ - Examples: added preset contexts for use in Quick Setup.
+
+Version 1.0
+ - Initial release.

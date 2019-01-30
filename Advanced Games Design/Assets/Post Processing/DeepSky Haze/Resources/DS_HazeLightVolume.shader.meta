@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed5bb5d82e846604595214e3fdab74f5
+labels:
+- shaders
+- DX11
+- fog
+- scattering
+- atmospherics
+- lighting
+timeCreated: 1471885440
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
