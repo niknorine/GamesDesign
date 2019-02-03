@@ -3869,7 +3869,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 0.51739943, g: 0.6020006, b: 0.7264151, a: 1}
-  m_Intensity: 2
+  m_Intensity: 1.2
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -36652,7 +36652,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-23832
+  m_Name: pb_Mesh-1900
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
