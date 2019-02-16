@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: b4bbe2d6e579d1d4b8338d8c9a387f8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: BodyAnimationControl
+    100004: Bottom
+    100006: Box
+    100008: Cilinder_Front_L
+    100010: Cilinder_Front_R
+    100012: Cilinder_frontR
+    100014: Cilinders_frontL
+    100016: Cilinders_frontLRing2
+    100018: Cilinders_frontR
+    100020: Cilinders_frontR_ring
+    100022: Drone_Glass
+    100024: //RootNode
+    100026: eye_detail
+    100028: Front_clapms_L_1
+    100030: Front_clapms_L_1_2
+    100032: Front_clapms_L_1_3
+    100034: Front_clapms_L_1_4
+    100036: Front_clapms_L_1_5
+    100038: Front_clapmsR_1
+    100040: Front_clapmsR_1_2
+    100042: Front_clapmsR_1_3
+    100044: Front_clapmsR_1_4
+    100046: Front_clapmsR_1_5
+    100048: Front_exhausts_ClampsL
+    100050: Front_exhaustsClampsR
+    100052: Front_exhaustsExhaustL
+    100054: Front_exhaustsExhaustR
+    100056: group
+    100058: rear_clamps
+    100060: rear_clampsR
+    100062: Rear_Engine_L
+    100064: Rear_Engine_R
+    100066: Rear_enginesExhaustL
+    100068: Rear_enginesExhaustR
+    100070: Rear_enginesL
+    100072: Rear_enginesL_1Frontdetaill
+    100074: Rear_enginesL_1RingL
+    100076: Rear_enginesR
+    100078: Rear_enginesRRingR
+    100080: Wing1
+    100082: Wing1_2
+    100084: Wing2
+    100086: Wing3
+    100088: Wing4
+    100090: Wing5
+    100092: Wing_2
+    100094: Wing_3
+    100096: Wing_4
+    100098: Wing_5_
+    100100: Wing_animation_control
+    100102: Wing_animation_control_10
+    100104: Wing_animation_control_2
+    100106: Wing_animation_control_3
+    100108: Wing_animation_control_4
+    100110: Wing_animation_control_5
+    100112: Wing_animation_control_6
+    100114: Wing_animation_control_7
+    100116: Wing_animation_control_8
+    100118: Wing_animation_control_9
+    100120: Wing_R
+    100122: WingL
+    100124: Wings_L
+    100126: Wings_L_2
+    100128: Wings_L_3
+    100130: Wings_L_4
+    100132: Wings_L_5
+    100134: Wings_R_1
+    100136: Wings_R_1_2
+    100138: Wings_R_1_3
+    100140: Wings_R_1_4
+    100142: Wings_R_1_5
+    400000: Body
+    400002: BodyAnimationControl
+    400004: Bottom
+    400006: Box
+    400008: Cilinder_Front_L
+    400010: Cilinder_Front_R
+    400012: Cilinder_frontR
+    400014: Cilinders_frontL
+    400016: Cilinders_frontLRing2
+    400018: Cilinders_frontR
+    400020: Cilinders_frontR_ring
+    400022: Drone_Glass
+    400024: //RootNode
+    400026: eye_detail
+    400028: Front_clapms_L_1
+    400030: Front_clapms_L_1_2
+    400032: Front_clapms_L_1_3
+    400034: Front_clapms_L_1_4
+    400036: Front_clapms_L_1_5
+    400038: Front_clapmsR_1
+    400040: Front_clapmsR_1_2
+    400042: Front_clapmsR_1_3
+    400044: Front_clapmsR_1_4
+    400046: Front_clapmsR_1_5
+    400048: Front_exhausts_ClampsL
+    400050: Front_exhaustsClampsR
+    400052: Front_exhaustsExhaustL
+    400054: Front_exhaustsExhaustR
+    400056: group
+    400058: rear_clamps
+    400060: rear_clampsR
+    400062: Rear_Engine_L
+    400064: Rear_Engine_R
+    400066: Rear_enginesExhaustL
+    400068: Rear_enginesExhaustR
+    400070: Rear_enginesL
+    400072: Rear_enginesL_1Frontdetaill
+    400074: Rear_enginesL_1RingL
+    400076: Rear_enginesR
+    400078: Rear_enginesRRingR
+    400080: Wing1
+    400082: Wing1_2
+    400084: Wing2
+    400086: Wing3
+    400088: Wing4
+    400090: Wing5
+    400092: Wing_2
+    400094: Wing_3
+    400096: Wing_4
+    400098: Wing_5_
+    400100: Wing_animation_control
+    400102: Wing_animation_control_10
+    400104: Wing_animation_control_2
+    400106: Wing_animation_control_3
+    400108: Wing_animation_control_4
+    400110: Wing_animation_control_5
+    400112: Wing_animation_control_6
+    400114: Wing_animation_control_7
+    400116: Wing_animation_control_8
+    400118: Wing_animation_control_9
+    400120: Wing_R
+    400122: WingL
+    400124: Wings_L
+    400126: Wings_L_2
+    400128: Wings_L_3
+    400130: Wings_L_4
+    400132: Wings_L_5
+    400134: Wings_R_1
+    400136: Wings_R_1_2
+    400138: Wings_R_1_3
+    400140: Wings_R_1_4
+    400142: Wings_R_1_5
+    2100000: Body
+    2100002: Glass
+    2100004: rear_engines
+    2100006: Box
+    2100008: Cilinders_front
+    2100010: Bottom_and_wires
+    2100012: eye_detail
+    2100014: Rear_clamps
+    2100016: front_exhausts
+    2100018: Wings
+    2100020: Front_clamps
+    2300000: Body
+    2300002: Bottom
+    2300004: Box
+    2300006: Cilinders_frontL
+    2300008: Cilinders_frontLRing2
+    2300010: Cilinders_frontR
+    2300012: Cilinders_frontR_ring
+    2300014: Drone_Glass
+    2300016: eye_detail
+    2300018: Front_clapms_L_1
+    2300020: Front_clapms_L_1_2
+    2300022: Front_clapms_L_1_3
+    2300024: Front_clapms_L_1_4
+    2300026: Front_clapms_L_1_5
+    2300028: Front_clapmsR_1
+    2300030: Front_clapmsR_1_2
+    2300032: Front_clapmsR_1_3
+    2300034: Front_clapmsR_1_4
+    2300036: Front_clapmsR_1_5
+    2300038: Front_exhausts_ClampsL
+    2300040: Front_exhaustsClampsR
+    2300042: Front_exhaustsExhaustL
+    2300044: Front_exhaustsExhaustR
+    2300046: rear_clamps
+    2300048: rear_clampsR
+    2300050: Rear_enginesExhaustL
+    2300052: Rear_enginesExhaustR
+    2300054: Rear_enginesL
+    2300056: Rear_enginesL_1Frontdetaill
+    2300058: Rear_enginesL_1RingL
+    2300060: Rear_enginesR
+    2300062: Rear_enginesRRingR
+    2300064: Wings_L
+    2300066: Wings_L_2
+    2300068: Wings_L_3
+    2300070: Wings_L_4
+    2300072: Wings_L_5
+    2300074: Wings_R_1
+    2300076: Wings_R_1_2
+    2300078: Wings_R_1_3
+    2300080: Wings_R_1_4
+    2300082: Wings_R_1_5
+    3300000: Body
+    3300002: Bottom
+    3300004: Box
+    3300006: Cilinders_frontL
+    3300008: Cilinders_frontLRing2
+    3300010: Cilinders_frontR
+    3300012: Cilinders_frontR_ring
+    3300014: Drone_Glass
+    3300016: eye_detail
+    3300018: Front_clapms_L_1
+    3300020: Front_clapms_L_1_2
+    3300022: Front_clapms_L_1_3
+    3300024: Front_clapms_L_1_4
+    3300026: Front_clapms_L_1_5
+    3300028: Front_clapmsR_1
+    3300030: Front_clapmsR_1_2
+    3300032: Front_clapmsR_1_3
+    3300034: Front_clapmsR_1_4
+    3300036: Front_clapmsR_1_5
+    3300038: Front_exhausts_ClampsL
+    3300040: Front_exhaustsClampsR
+    3300042: Front_exhaustsExhaustL
+    3300044: Front_exhaustsExhaustR
+    3300046: rear_clamps
+    3300048: rear_clampsR
+    3300050: Rear_enginesExhaustL
+    3300052: Rear_enginesExhaustR
+    3300054: Rear_enginesL
+    3300056: Rear_enginesL_1Frontdetaill
+    3300058: Rear_enginesL_1RingL
+    3300060: Rear_enginesR
+    3300062: Rear_enginesRRingR
+    3300064: Wings_L
+    3300066: Wings_L_2
+    3300068: Wings_L_3
+    3300070: Wings_L_4
+    3300072: Wings_L_5
+    3300074: Wings_R_1
+    3300076: Wings_R_1_2
+    3300078: Wings_R_1_3
+    3300080: Wings_R_1_4
+    3300082: Wings_R_1_5
+    4300000: Body
+    4300002: Drone_Glass
+    4300004: Rear_enginesL_1Frontdetaill
+    4300006: Box
+    4300008: Rear_enginesL_1RingL
+    4300010: Cilinders_frontR_ring
+    4300012: Cilinders_frontLRing2
+    4300014: Rear_enginesRRingR
+    4300016: Bottom
+    4300018: eye_detail
+    4300020: Rear_enginesL
+    4300022: Rear_enginesExhaustL
+    4300024: rear_clamps
+    4300026: Rear_enginesR
+    4300028: Rear_enginesExhaustR
+    4300030: rear_clampsR
+    4300032: Cilinders_frontL
+    4300034: Front_exhaustsExhaustL
+    4300036: Front_exhausts_ClampsL
+    4300038: Wings_L
+    4300040: Front_clapms_L_1
+    4300042: Wings_L_2
+    4300044: Front_clapms_L_1_2
+    4300046: Wings_L_3
+    4300048: Front_clapms_L_1_3
+    4300050: Wings_L_4
+    4300052: Front_clapms_L_1_4
+    4300054: Wings_L_5
+    4300056: Front_clapms_L_1_5
+    4300058: Cilinders_frontR
+    4300060: Front_exhaustsExhaustR
+    4300062: Front_exhaustsClampsR
+    4300064: Wings_R_1
+    4300066: Front_clapmsR_1
+    4300068: Wings_R_1_2
+    4300070: Front_clapmsR_1_2
+    4300072: Wings_R_1_3
+    4300074: Front_clapmsR_1_3
+    4300076: Wings_R_1_4
+    4300078: Front_clapmsR_1_4
+    4300080: Wings_R_1_5
+    4300082: Front_clapmsR_1_5
+    7400000: drone_mk4_Idle
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 11b43898f78cb204cb6828d027e081b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom_and_wires
+    second: {fileID: 2100000, guid: c465f8db10c34d74fb27e4b2fb073ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box
+    second: {fileID: 2100000, guid: ff7840ebbef138d4fa6a746d31cfdb43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cilinders_front
+    second: {fileID: 2100000, guid: 927f516ed25906045a55a81409ccc4d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_clamps
+    second: {fileID: 2100000, guid: a0ffd97c4e4fe9f4eb8eb9e592ba19fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 66dc6b5e4f2fb9a4a8180f11eb54f79c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rear_clamps
+    second: {fileID: 2100000, guid: 10b2d471e4a61c94d8828e94b6bea660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wings
+    second: {fileID: 2100000, guid: de981af86bb3ea24e8ffd91b3a0ace5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_detail
+    second: {fileID: 2100000, guid: 80c09a4ef066ce943872a200f182820b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_exhausts
+    second: {fileID: 2100000, guid: 83de9bc0877b7e64cb57f23e6d0588be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_engines
+    second: {fileID: 2100000, guid: f52befdfb92dd9a4cab7f9c60bb68736, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Back_box_AlbedoTransparency
+    second: {fileID: 2800000, guid: 216b80fe4cfa1a9428168cfe6111af3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Back_box_Emission
+    second: {fileID: 2800000, guid: 855be6bf68d7dd549bb0ca1de13be52c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Back_box_MetallicSmoothness
+    second: {fileID: 2800000, guid: 7ad40fe7749e32a4997ef80f15682212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Back_box_Normal
+    second: {fileID: 2800000, guid: 990a874dbea44c54ba4b48e53256b23b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_AlbedoTransparency
+    second: {fileID: 2800000, guid: 955c235cdd14730439fa7029387a2706, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_Emission
+    second: {fileID: 2800000, guid: be6f15b029d431240bc596285a7169c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_MetallicSmoothness
+    second: {fileID: 2800000, guid: 21ce5caa769ff864c80c29219931e4af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_Normal
+    second: {fileID: 2800000, guid: 7110f4af122652f4e8c359daba3e9f1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bodys_opacity
+    second: {fileID: 2800000, guid: 08c82a344e4505c49958afaa0ad74a91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottomandwires_AlbedoTransparency
+    second: {fileID: 2800000, guid: ea20f61eb025a344faa7cef4ce4df210, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottomandwires_Emission
+    second: {fileID: 2800000, guid: 9da87c6ada5e26946a45d45e9e9d60e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottomandwires_MetallicSmoothness
+    second: {fileID: 2800000, guid: 55997c5837a06054db6e4188c45bca08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottomandwires_Normal
+    second: {fileID: 2800000, guid: ea8d911327ac578478329cdbf3cbf43b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cilinders_front_AlbedoTransparency
+    second: {fileID: 2800000, guid: 23c72b9227d428943943952c1ecf7013, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cilinders_front_MetallicSmoothness
+    second: {fileID: 2800000, guid: c56d13ca79f9e6c4798df83b52a054fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cilinders_front_Normal
+    second: {fileID: 2800000, guid: 60eb55675df184b459d6efd6d8c5e848, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EyeDetail_AlbedoTransparency
+    second: {fileID: 2800000, guid: 6ff11c945677c5d4ca8067300013d4a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EyeDetail_Emission
+    second: {fileID: 2800000, guid: f9daf86eab101e745b66e98de5e3ef9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EyeDetail_MetallicSmoothness
+    second: {fileID: 2800000, guid: 063641d84a9b0c14aad9a8593c13686e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EyeDetail_Normal
+    second: {fileID: 2800000, guid: f5b17bde453f55d4491117cfed5da206, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_clamps_AlbedoTransparency
+    second: {fileID: 2800000, guid: 4a5e42fa8d3f3c8409410d0c4411b701, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_clamps_MetallicSmoothness
+    second: {fileID: 2800000, guid: e7b6fd645a8a4464ea1fa417536eedc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_clamps_Normal
+    second: {fileID: 2800000, guid: a388a6745da67b344bf595f16ae0d9e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Glass_AlbedoTransparency
+    second: {fileID: 2800000, guid: aeddb08aff3ce3a4197712b0c7e6653c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Glass_opacity
+    second: {fileID: 2800000, guid: 251a9ecb584cc964b8b75e6d3bac1ff2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rear_clamps_AlbedoTransparency
+    second: {fileID: 2800000, guid: 7de7f736c27fa0c4e8df97d530ce2313, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rear_clamps_MetallicSmoothness
+    second: {fileID: 2800000, guid: 6d659cc1a8f19f144a6da0e759bf5751, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rear_clamps_Normal
+    second: {fileID: 2800000, guid: e816aea087714a948b90bff589e2aa4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wings_AlbedoTransparency
+    second: {fileID: 2800000, guid: b1b95ffd52d237f47bf9d5f4907d47d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wings_MetallicSmoothness
+    second: {fileID: 2800000, guid: bf63c44037ef2c64392d42e240e83848, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wings_Normal
+    second: {fileID: 2800000, guid: 11a5ca72e9d22264387a77f2f8e6ff40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: front_exhausts_MetallicSmoothness
+    second: {fileID: 2800000, guid: 026972730e8a91745acd43bdce629a27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: front_exhausts_Normal
+    second: {fileID: 2800000, guid: 5a1ce567dfb200f4990e52f390ec0358, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rear_engines_AlbedoTransparency
+    second: {fileID: 2800000, guid: dd63a387f3c6c53418754b688e9623d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rear_engines_Emission
+    second: {fileID: 2800000, guid: 78a811405dd976b4b9e571d52beab1d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rear_engines_MetallicSmoothness
+    second: {fileID: 2800000, guid: cc0a30f3717fdae448303e9924532ca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rear_engines_Normal
+    second: {fileID: 2800000, guid: e26a938ab4be97c4e8e516f2e79e0b35, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: drone_mk4_Idle
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
