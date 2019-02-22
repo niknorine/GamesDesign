@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 3c1baa045ff8c924fb9071bfbbfc8a8e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dviglo
+    100004: FinalWing__Copy_
+    100006: FinalWing__Copy__2
+    100008: FinalWing__Copy__3
+    100010: FinalWing__Copy__4
+    100012: FinalWing__Copy__5
+    100014: Glass_low
+    100016: MOving_wings__Copy_
+    100018: Null
+    100020: Null_1
+    100022: Null_2
+    100024: Null_2_2
+    100026: Null_3
+    100028: Null_4
+    100030: Null_5
+    100032: RHS
+    100034: RHS_2
+    100036: Symmetry
+    100038: Symmetry_1
+    100040: "\u0414\u0432\u0438\u0433\u043B\u043E_\u0437\u0430\u0434"
+    100042: "\u0437\u0430\u0434_\u0441\u043E\u043F\u043B\u043E"
+    100044: "\u0441\u043E\u043F\u043B\u043E"
+    100046: "\u0441\u043E\u043F\u043B\u043E\u0414\u0432\u0438\u0433\u043B\u043E"
+    400000: //RootNode
+    400002: Dviglo
+    400004: FinalWing__Copy_
+    400006: FinalWing__Copy__2
+    400008: FinalWing__Copy__3
+    400010: FinalWing__Copy__4
+    400012: FinalWing__Copy__5
+    400014: Glass_low
+    400016: MOving_wings__Copy_
+    400018: Null
+    400020: Null_1
+    400022: Null_2
+    400024: Null_2_2
+    400026: Null_3
+    400028: Null_4
+    400030: Null_5
+    400032: RHS
+    400034: RHS_2
+    400036: Symmetry
+    400038: Symmetry_1
+    400040: "\u0414\u0432\u0438\u0433\u043B\u043E_\u0437\u0430\u0434"
+    400042: "\u0437\u0430\u0434_\u0441\u043E\u043F\u043B\u043E"
+    400044: "\u0441\u043E\u043F\u043B\u043E"
+    400046: "\u0441\u043E\u043F\u043B\u043E\u0414\u0432\u0438\u0433\u043B\u043E"
+    2100000: Mat
+    2100002: Mat.1
+    2300000: //RootNode
+    2300002: Dviglo
+    2300004: FinalWing__Copy_
+    2300006: FinalWing__Copy__2
+    2300008: FinalWing__Copy__3
+    2300010: FinalWing__Copy__4
+    2300012: FinalWing__Copy__5
+    2300014: Glass_low
+    2300016: "\u0414\u0432\u0438\u0433\u043B\u043E_\u0437\u0430\u0434"
+    2300018: "\u0437\u0430\u0434_\u0441\u043E\u043F\u043B\u043E"
+    2300020: "\u0441\u043E\u043F\u043B\u043E"
+    3300000: //RootNode
+    3300002: Dviglo
+    3300004: FinalWing__Copy_
+    3300006: FinalWing__Copy__2
+    3300008: FinalWing__Copy__3
+    3300010: FinalWing__Copy__4
+    3300012: FinalWing__Copy__5
+    3300014: Glass_low
+    3300016: "\u0414\u0432\u0438\u0433\u043B\u043E_\u0437\u0430\u0434"
+    3300018: "\u0437\u0430\u0434_\u0441\u043E\u043F\u043B\u043E"
+    3300020: "\u0441\u043E\u043F\u043B\u043E"
+    4300000: Body_low_1__Copy_
+    4300002: "\u0414\u0432\u0438\u0433\u043B\u043E_\u0437\u0430\u0434"
+    4300004: "\u0437\u0430\u0434_\u0441\u043E\u043F\u043B\u043E"
+    4300006: Dviglo
+    4300008: FinalWing__Copy_
+    4300010: FinalWing__Copy__2
+    4300012: FinalWing__Copy__3
+    4300014: FinalWing__Copy__4
+    4300016: FinalWing__Copy__5
+    4300018: "\u0441\u043E\u043F\u043B\u043E"
+    4300020: Glass_low
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 568607772f7b98b4cb0f6b8af31ce278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 43fcbe9074a975d4da04085072b09a6b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
